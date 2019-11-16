@@ -1,0 +1,50 @@
+.content{
+  overflow: hidden;
+}
+.contentbg{background: #D6D6D6;
+   width: 1450px;
+   height: auto;
+   margin: 0 auto;
+ }
+body{
+  background: #19191A;
+  font-family: 'Arial', cursive;
+}
+header{
+  background: white;
+  padding: 5px;
+}
+h1{
+  text-align: center;
+  font-size: 30px;
+}
+.post{
+  background: white;
+  width: 600px;
+  margin: auto;
+  display: block;
+  margin-top: 20px;
+}
+.image img{
+  width: 100%;
+}
+.posttitle{
+  margin: 0;
+}
+.titulo{
+  display: inline-block;
+  width: 70%;
+  margin: 0;
+  padding-left: 10px;
+}
+.fecha{
+  display: inline-block;
+  width: 25%;
+  text-align: right;
+  margin: 0;
+  color: gray;
+  padding-right: 5px;
+}
+.desc{
+  padding: 10px;
+}
